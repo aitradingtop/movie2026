@@ -1,8 +1,8 @@
 {
     // PWA 的名称，它将显示在设备的主屏幕、应用启动器等位置。
-    "name": "Aurora",
+    "name": "Aurora Media",
     // PWA 的简短名称，当空间有限时，如在设备主屏幕上图标下方显示的名称，会优先使用短名称
-    "short_name": "Aurora",
+    "short_name": "Aurora Media",
     // PWA 在不同设备和场景下使用的图标。可以指定多种尺寸的图标，以适应各种屏幕分辨率和设备类型 
     "icons": [
         {
