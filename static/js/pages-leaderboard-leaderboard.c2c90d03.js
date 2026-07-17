@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["pages-leaderboard-leaderboard"],{"9b3b":function(o,d,e){"use strict";e.r(d);var a=e("828b"),l=Object(a["a"])({},void 0,void 0,!1,null,null,null,!1,void 0,void 0);d["default"]=l.exports}}]);

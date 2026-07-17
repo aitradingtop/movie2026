@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["pages-index-vipleve"],{"162c":function(e,i,n){"use strict";n.r(i);var o=n("828b"),d=Object(o["a"])({},void 0,void 0,!1,null,null,null,!1,void 0,void 0);i["default"]=d.exports}}]);

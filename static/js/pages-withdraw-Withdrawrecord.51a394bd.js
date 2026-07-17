@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["pages-withdraw-Withdrawrecord"],{"53bb":function(o,d,i){"use strict";i.r(d);var n=i("828b"),w=Object(n["a"])({},void 0,void 0,!1,null,null,null,!1,void 0,void 0);d["default"]=w.exports}}]);
